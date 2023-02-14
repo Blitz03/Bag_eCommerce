@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e278f12.css",
+    "main.js": "/static/js/main.05ea52fa.js",
+    "static/media/landing.jpg": "/static/media/landing.e3c475bdbcfa655e09a4.jpg",
+    "static/media/intro-3.jpg": "/static/media/intro-3.48407ee6d35167fc9c66.jpg",
+    "static/media/intro-1.jpg": "/static/media/intro-1.c0810ba1dd29927bac5d.jpg",
+    "static/media/intro-2.jpg": "/static/media/intro-2.68633f04b4c8a221bd91.jpg",
+    "static/media/tiktok.png": "/static/media/tiktok.9b32b891b7e830b2c981.png",
+    "index.html": "/index.html",
+    "main.5e278f12.css.map": "/static/css/main.5e278f12.css.map",
+    "main.05ea52fa.js.map": "/static/js/main.05ea52fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e278f12.css",
+    "static/js/main.05ea52fa.js"
+  ]
+}
